@@ -1,0 +1,17 @@
+# Python dependencies for the gene-module selection notebooks.
+# Install with:  pip install -r requirements.txt
+#
+# Versions are left unpinned. For an exactly reproducible environment,
+# replace each line with the version you used, e.g. scanpy==1.10.1
+# (run `pip freeze` in your working environment to get them).
+
+scanpy
+anndata
+numpy
+pandas
+scipy
+matplotlib
+
+# Required by sc.tl.leiden(flavor="igraph") used in the clustering cells
+leidenalg
+igraph
