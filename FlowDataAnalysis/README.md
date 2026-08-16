@@ -16,6 +16,8 @@ progression of each sub-landscape and route can be followed across SAG concentra
 The proportions produced here are then averaged for each SAG concentration accross replicates and this average is what the landscape model is fitted to in
 [`../FittingModel/`](../FittingModel/).
 
+![Decision Landscape using Flow Cytometry](Github_DecisionLandscape.jpg)
+
 ## Contents
 
 | File | Purpose | Appendix A |
