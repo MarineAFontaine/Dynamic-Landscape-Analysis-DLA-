@@ -1,0 +1,27 @@
+# Python dependencies for the flow cytometry analysis notebooks.
+# Install with:  pip install -r requirements.txt
+#
+# Versions are left unpinned. For an exactly reproducible environment,
+# replace each line with the version you used, e.g. scanpy==1.10.1
+# (run `pip freeze` in your working environment to get them).
+
+numpy
+pandas
+scipy
+matplotlib
+
+# Reading the processed .h5ad files and handling the AnnData objects
+scanpy
+anndata
+
+# Gaussian Mixture clustering and Linear Discriminant Analysis
+scikit-learn
+
+# KDE overlays on the LDA plots
+seaborn
+
+# Ridgeline plots used in the cluster-quality (unimodality) cells
+joypy
+
+# To run the notebooks
+jupyterlab
