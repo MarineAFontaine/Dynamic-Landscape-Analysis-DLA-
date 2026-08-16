@@ -34,7 +34,7 @@ notebook, run the cells top to bottom.
 
 ## Data
 
-Each notebook reads an AnnData (`.h5ad`) file from the parent folder, [`../`](../):
+Each notebook reads an AnnData (`.h5ad`) file that can be downloaded at Zenodo under the DOI https://doi.org/10.5281/zenodo.15584010:
 
 | File | Notebook | Module produced |
 |------|----------|-----------------|
