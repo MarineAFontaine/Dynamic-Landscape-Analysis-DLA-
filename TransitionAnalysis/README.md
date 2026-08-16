@@ -30,7 +30,7 @@ Sections A1.1–A1.2, and A5 for the human data).
 ## Data
 
 The notebook reads AnnData (`.h5ad`) files from
-[`../RNAseqDataAnalysis/`](../RNAseqDataAnalysis/):
+[`../RNAseqDataAnalysis/`](../RNAseqDataAnalysis/) at Zenodo under the DOI https://doi.org/10.5281/zenodo.15584010:
 
 | File | Used for |
 |------|----------|
