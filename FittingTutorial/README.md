@@ -18,6 +18,8 @@ are fitted instead of nineteen, so a full ABC run finishes in minutes rather tha
 which makes it the right place to start, and the right place to plug in your own
 landscape.
 
+![First Decisions Landscape Simulation](Github_SimulationNMP.jpg)
+
 ## Contents
 
 | File | Purpose |
