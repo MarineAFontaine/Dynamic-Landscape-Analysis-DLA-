@@ -1,0 +1,26 @@
+# Python dependencies for the first-decisions fitting tutorial.
+# Install with:  pip install -r requirements.txt
+#
+# Versions are left unpinned. For an exactly reproducible environment,
+# replace each line with the version you used, e.g. pyabc==0.12.13
+# (run `pip freeze` in your working environment to get them).
+
+numpy
+pandas
+scipy
+matplotlib
+
+# Approximate Bayesian computation used for the fit (Appendix B Section B4.3)
+pyabc
+
+# JIT compilation of compute_landscape in landscape_first_decisions.py
+numba
+
+# make_blobs, used to draw the initial cell positions
+scikit-learn
+
+# Imported by fitting_plots.py (taken from the parent folder)
+seaborn
+
+# To run the notebook
+jupyterlab
